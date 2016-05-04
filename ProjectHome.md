@@ -1,0 +1,2 @@
+For this project, we will implement a simulation of texas hold'em game that will eventually be ported onto Android.
+Features such as multiple player over internet will be implemented later in the development.
